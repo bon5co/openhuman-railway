@@ -1,5 +1,9 @@
 # openhuman-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/openhuman-core-v06-1?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [OpenHuman Core template](https://railway.com/deploy/openhuman-core-v06-1?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned wrapper image for [OpenHuman Core](https://github.com/tinyhumansai/openhuman) —
 the Rust core (agent runtime, memory, skills, JSON-RPC) behind the OpenHuman desktop app,
 run as an always-on remote backend.
